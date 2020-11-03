@@ -1,0 +1,31 @@
+# **Data & Analyses**
+
+## Organization
+You will create, acquire, and accumulate an enormous amount of files during grad school and much, much more throughout your career. So it is truly imperative to establish a good file naming system and a good folder system for storing everything. The best systems will not only make sense to you, but could also be easily navigable to others. This document is an excellent and simple guide for naming files: [Data Science of Marine Conservation](https://docs.google.com/presentation/d/1NqfzjMlilJzXKUujFkzSr7xc1eKlDj5TVy02Zg8opwg/present?slide=id.p)
+
+```{r, out.width = '75%', fig.align='center', fig.cap='Seriously, include the date in your files and use the International Organization for Standardization (ISO) format.', echo=FALSE}
+knitr::include_graphics('Images/FileDating_YYYY_MM_DD.jpg')
+```
+
+## Shared folders
+We will use a file/folder sharing system in the FEL. Currently, that system is Box. This will be used for group projects as well as one-on-one sharing with Stallings. 
+
+For the one-on-one parent folder, there will four subfolders:
+
+- **Funding**: this will have subfolders for every scholarships, fellowship, etc that you apply for. The subfolders will house the funding instructions, application, CV, etc.
+- **General**: this is a catch-all subfolder for items that don’t quite fit in with the other subfolders. 
+- **Presentations**: this will have subfolders for each presentation you give at meetings and seminars.
+- **Thesis**: this folder will house all your thesis-based data and products. There will be subfolders for each chapter, the proposal (including the proposal presentation here instead of the presentations folder), data, code for analysis, and the defense presentation (here instead of the presentations folder)
+
+## Analytical tools
+I strongly encourage you to use R. Regardless of the programming language you choose, having good data management and workflow is critical.
+
+- Please read this really nice guide: 
+  - [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- Getting started in R:
+  - [Stat545](https://stat545.com/)
+  - [R for Data Science](https://r4ds.had.co.nz/)
+  - [What they forgot to teach you about R](https://rstats.wtf/)
+- Version control: 
+  - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159.pdf)
+  - [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html)

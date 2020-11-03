@@ -1,0 +1,45 @@
+# **Prospectus**
+
+The prospectus should be as long as it needs to be to get your point across. There is no suggested length, as this depends on the project and the progress that has been made on the project. Most proposals fall in the range of 8-10 pages for MS and 10-15 for PhD.
+
+## Format
+**Abstract** *(optional)* 
+
+- There is a section on the SACS evaluation form for an abstract, but this is not necessary in a prospectus format.
+
+**Introduction** 
+
+- This should include all information necessary to set up your specific questions that you plan to investigate in your thesis/dissertation with a fairly comprehensive literature review the demonstrates you have done your due diligence on the topic. The information presented should reflect a thorough understanding of your dissertation topic, and the research leading up to it. Your introduction should describe how your proposed study will fill a gap in the knowledge/research of your topic of interest or apply existing knowledge in a novel way (e.g., novel technique, new location).
+
+**Research questions**
+
+- The specific questions that are being asked through your project. These can be integrated into your introduction or exist as a separate section. If the questions are hypothesis-driven, state and detail the specific hypotheses that are being tested.
+
+**Methodology**
+
+- An overview of the methods that will be used for data collection and analysis. These should be broken down by the question of interest (or if general methodology, make a separate sub-section). Your methods should be detailed to the point where your committee understands what you’re doing, but they do not need to be detailed to the extent of a manuscript. It is okay to not have all the answers at this point. Your committee will help you determine specific experimental/analytical methods if you are not certain as to the proper method to use.
+ - If data will be obtained through a secondary source, provide details on the structure of the data and the methods used to collect them. This can be separated out into its own section or integrated into your methods.
+
+**Progress to date**
+
+ - This section will vary depending on where each student is in their graduate career at the time of writing the prospectus, and on the nature of the project. Detail all steps that have been taken thus far in obtaining data, preliminary analyses, etc. If preliminary results are available, provide these through both prose and figures. Note, it is not necessary to have preliminary data and results at the time of writing the proposal.
+
+**Academic timeline**  
+This should include the following milestones and the semester(s) of their projected completion:
+
+- Committee formation
+- Proposal submission
+- Proposal meeting
+- Doctoral Candidacy Exam (PhD Only)
+- Major milestones for research project (data collection, analyses, etc.)
+- Thesis/dissertation writing (can also include manuscript submission)
+- Thesis/dissertation defense
+- Expected graduation
+
+**Completed coursework**
+
+- An updated schedule of all courses taken in grad school, their completion date, type (e.g., core, elective, MRA), and grade earned. This will allow your committee to identify potential gaps in your curriculum. Make note of courses that have not yet been completed but you plan to take, and their expected completion. If you are a PhD student, include the date of IMSE completion in this section.
+
+**Literature cited**
+
+- This should be a comprehensive list of all sources used in your prospectus. Internal citations should be of the form (Author Year). 

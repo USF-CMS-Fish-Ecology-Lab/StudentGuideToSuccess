@@ -1,0 +1,47 @@
+# **Production and Communication**
+
+Publish, publish, publish (publish or perish!). Publications are the currency in our field. Journal quality is very important, especially for PhD students hoping to get a job! Think Ecology, Ecology Letters, etc.
+
+- MS students: a minimum of two publishable papers from thesis
+- PhD students: a minimum of three publishable papers from dissertation (should be highly interrelated studies that when synthesized should advance our understanding about an important topic)
+
+
+## Writing a manuscript 
+*Note: Try starting with “outline” view in word processor*
+
+1) Layout all **FIGURES** and **TABLES**
+    - Determine what to include to tell a complete story.
+2) Write the **RESULTS** first 
+    - What you found (this is a fairly easy section to write).
+3) Next, write the **METHODS**
+    - How did you produce the results you just described?
+4) Then write the **DISCUSSION**
+    - What do those results mean?
+5) Finally, write the **INTRODUCTION** 
+    - Set the stage for the results and inference that came from the study.
+6) Wrap up by writing **ABSTRACT** with about two key sentences from each section.  
+
+Regarding **KEYWORDS**: don’t use keywords that show up in your title or abstract. The search engines will find them, so putting them in keywords list is redundant, a waste of limited keywords, and limits the number of hits your paper will get.
+
+This is an excellent resource for structuring your manuscript: [11 Steps to Structuring a Science Paper](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
+
+
+## Writing skills
+Learn how to become a self-editor (see our lab’s writing cheat sheet and always keep Strunk and White nearby). You should be your toughest critic, not me. Ask whether you have given complete and balanced treatment of the topic. Is the writing well-organized and written in scholarly language? Are the mechanics correct?
+
+I edit heavily. Learn from manuscript edits, don’t just accept track changes. Compare what you wrote to the edits I made. Understand why the changes were made. If you don’t, ask me (or whoever made edits). It’s ok to disagree. It’s not ok to ignore. The intention is to:
+
+1) Improve the quality of the product 
+2) More importantly, teach you how to become an effective writer. 
+
+We follow the CMS’s [Code of Conduct](https://www.usf.edu/marine-science/about-us/college-documents.aspx/) regarding the expected time it takes to publish work derived from your time here, regardless of whether you are an undergraduate intern, graduate student (MS or PhD), postdoc, or visiting scientist. Specifically, the Code of Conduct states: “Sometimes a student’s work must be published very quickly and before they graduate (e.g., due to grant restrictions or because it is a novel work that might be “scooped” if not published quickly). However, if the advisor agrees that it is not necessary to publish the work immediately, then a graduated student can publish the work as first author within a reasonable time after completing their degree. The exact amount of time must be agreed upon by both the student and the advisor. If a graduated student does not make a good-faith attempt to submit their research for publication within the time frame mutually agreed upon by the student and advisor, AND the advisor has either documented written attempts to contact the student about the manuscript or confirmed that the work has been abandoned by the student, then the advisor assumes the right to publish parts or all of that thesis or dissertation research as first author (or ask another student, post-doc, or staff member to take over the manuscript). In this case, the graduated student will be listed as a co-author as appropriate to their contributions to a publication.” 
+
+Present research at symposia, conferences, etc. Our lab frequently attends the Benthic Ecology Meeting (usually mid-late March), and sometimes ESA, AFS (national), AFS (Florida), GCFI, ICES, WSN, ASLO, and others.
+
+- All presentations (oral and posters) must first be presented to lab for a practice run and feedback.
+- Practice run must occur at least one week before conference presentation.
+- Presentation should be polished at time of practice run. Don’t apologize and say you haven’t practiced it yet – what’s the point of us editing it at that stage?
+- For the practice run, presenter is responsible for reserving the space (usually in lab), projector, and scheduling attendance.
+
+## Authorship
+In peer-review publications and presentations included as part of a thesis or dissertation, I should be listed as the last author as I am the PI of the laboratory where the investigation has been conducted. If publications or presentations are the product of a research collaboration with another laboratory or research group where funding or any other source of assistance is provided, a meeting prior to the initiation of the project should be held in order to decide authorship order and responsibilities. Additional individuals who contributed substantially to the design, acquisition, analysis, or interpretation of the data, and drafting of manuscript should be listed as co-authors. I also encourage you to participate in side-projects, whether they involve me or not. For any non-thesis related publications of which I have not participated, I do not expect authorship.
