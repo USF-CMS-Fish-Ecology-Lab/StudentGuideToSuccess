@@ -1,1 +1,3 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+This is the Bookdown R code for the Fish Ecology Lab Student Guide to Success
+
+The final product can be found here: https://michaeljschram.github.io/StudentGuideToSuccess/
