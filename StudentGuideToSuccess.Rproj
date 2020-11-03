@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: E:/My Documents/OneDrive/Professional/07_USF Lab/StudentGuideToSuccess

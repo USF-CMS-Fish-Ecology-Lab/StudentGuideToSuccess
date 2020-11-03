@@ -4,10 +4,6 @@ author: "Lab PI: C. Stallings"
 date: "Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
-bibliography:
-- book.bib
-- packages.bib
-biblio-style: apalike
 link-citations: yes
 description: "The lab handbook for the USF CMS Fish Ecology Lab directed by Christopher
   Stallings."
