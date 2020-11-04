@@ -27,4 +27,7 @@ Additional information is also available from the [USF Office of Graduate Studie
 Contributors:  
 *Timothy Pusack, Ileana Freytis-Ortiz, Dinorah Chacin-Amorena, Jonathan Peake*
 
+Bookdown code and hosting:
+*Michael Schram*
+
 ***
