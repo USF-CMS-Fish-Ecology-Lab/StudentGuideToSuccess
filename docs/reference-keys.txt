@@ -17,6 +17,7 @@ analytical-tools
 production-and-communication
 writing-a-manuscript
 writing-skills
+presenting-your-resarch
 authorship
 scheduling-of-written-products
 prospectus-thesis-and-dissertation
