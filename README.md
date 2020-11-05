@@ -1,1 +1,1 @@
-[Fish Ecology Lab Student Guide to Success](https://michaeljschram.github.io/StudentGuideToSuccess/)
+[Fish Ecology Lab Student Guide to Success](https://usf-cms-fish-ecology-lab.github.io/StudentGuideToSuccess/)
