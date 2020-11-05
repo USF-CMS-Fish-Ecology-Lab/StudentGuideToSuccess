@@ -16,3 +16,6 @@ pre code {
 body {
 text-align: justify
 }
+
+.book .book-body .page-wrapper .page-inner section.normal 
+h1.title{font-size:3em}

@@ -7,7 +7,7 @@ Publish, publish, publish (publish or perish!). Publications are the currency in
 
 
 ## Writing a manuscript 
-*Note: Try starting with “outline” view in word processor*
+***Note:*** *Try starting with “outline” view in word processor.*
 
 1) Layout all **FIGURES** and **TABLES**
     - Determine what to include to tell a complete story.
