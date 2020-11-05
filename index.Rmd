@@ -7,6 +7,7 @@ output: bookdown::gitbook
 link-citations: yes
 description: "The lab handbook for the USF CMS Fish Ecology Lab directed by Christopher
   Stallings."
+cover-image: Images/FEL.jpg
 urlcolor: blue
 ---
 
