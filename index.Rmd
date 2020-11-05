@@ -8,6 +8,7 @@ colorlinks: yes
 description: "The lab handbook for the USF CMS Fish Ecology Lab directed by Christopher
   Stallings."
 urlcolor: blue
+github-repo: USF-CMS-Fish-Ecology-Lab/StudentGuideToSuccess
 cover-image: Images/FEL.jpg
 ---
 
