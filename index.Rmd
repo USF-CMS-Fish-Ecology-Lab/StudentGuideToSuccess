@@ -5,9 +5,9 @@ date: "Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 link-citations: yes
+colorlinks: yes
 description: "The lab handbook for the USF CMS Fish Ecology Lab directed by Christopher
   Stallings."
-cover-image: Images/FEL.jpg
 urlcolor: blue
 ---
 
@@ -16,6 +16,10 @@ file.create('docs/.nojekyll')
 ```
 
 # **The Fish Ecology Lab** {.unlisted .unnumbered}
+
+```{r, out.width = '50%', fig.align='center', echo=FALSE}
+knitr::include_graphics('Images/FEL.jpg')
+```
 
 Welcome to the Fish Ecology Lab at the USF College of Marine Science! Making the transition from being an undergrad to a graduate student can be both rewarding and exciting, but also has its challenges. Although you are considered a graduate “student,” you will be treated like a professional. Thus, you will have to balance being a student and developing your skills (after all, that’s why you are here), while also being treated as a colleague in the profession. This means that you will learn many new techniques and skills, but are expected to take charge of your learning and be the master of your own path. You will begin to contribute novel information to your scientific field. This guide is intended to help you make this transition so that you can excel here at USF and prepare yourself for a successful and rewarding career. I request that you review this handbook at the beginning of every semester since some advice is specific to different stages of your time as a graduate student.
 
