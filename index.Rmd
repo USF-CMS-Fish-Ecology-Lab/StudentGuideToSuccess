@@ -33,10 +33,10 @@ Additional information is also available from the [USF Office of Graduate Studie
 ***
 
 **Contributors:**  
-*Timothy Pusack, Ileana Freytis-Ortiz, Dinorah Chacin-Amorena, Jonathan Peake*
+*Timothy Pusack, PhD; Ileana Freytis-Ortiz, PhD; Dinorah Chacin-Amorena, PhD; Jonathan Peake*
 
 **Bookdown code:**  
-*Michael Schram*
+*Michael Schram, MS*
 
 **Last Updated:**  
 *`r Sys.Date()`*
