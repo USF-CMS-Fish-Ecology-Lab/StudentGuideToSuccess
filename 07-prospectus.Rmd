@@ -2,7 +2,7 @@
 
 The prospectus should be as long as it needs to be to get your point across. There is no suggested length, as this depends on the project and the progress that has been made on the project. Most proposals fall in the range of 8-10 pages for MS and 10-15 for PhD.
 
-## Format
+## Format {.unlisted .unnumbered}
 **Abstract** *(optional)* 
 
 - There is a section on the SACS evaluation form for an abstract, but this is not necessary in a prospectus format.
