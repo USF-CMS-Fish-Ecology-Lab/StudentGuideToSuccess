@@ -6,11 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Student Guide to Success</title>
   <meta name="description" content="The lab handbook for the USF CMS Fish Ecology Lab directed by Christopher Stallings." />
-  <meta name="generator" content="bookdown 0.21.2 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.41 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Student Guide to Success" />
   <meta property="og:type" content="book" />
-  
   <meta property="og:image" content="/Images/FEL.jpg" />
   <meta property="og:description" content="The lab handbook for the USF CMS Fish Ecology Lab directed by Christopher Stallings." />
   <meta name="github-repo" content="USF-CMS-Fish-Ecology-Lab/StudentGuideToSuccess" />
@@ -32,8 +31,8 @@
   
 
 <link rel="next" href="suggested-timeline.html"/>
-<script src="libs/header-attrs-2.5/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,11 +48,16 @@
 
 
 
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 
-<link href="libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0/anchor-sections.js"></script>
 
 
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -105,8 +109,7 @@
 </ul></li>
 <li class="chapter" data-level="6" data-path="scheduling-and-preparing-for-meetings.html"><a href="scheduling-and-preparing-for-meetings.html"><i class="fa fa-check"></i><b>6</b> <strong>Scheduling and Preparing for Meetings</strong></a>
 <ul>
-<li class="chapter" data-level="6.1" data-path="scheduling-and-preparing-for-meetings.html"><a href="scheduling-and-preparing-for-meetings.html#meeting-format"><i class="fa fa-check"></i><b>6.1</b> Meeting Format</a></li>
-<li class="chapter" data-level="6.2" data-path="scheduling-and-preparing-for-meetings.html"><a href="scheduling-and-preparing-for-meetings.html#what-to-bring-to-a-committee-meeting"><i class="fa fa-check"></i><b>6.2</b> What to bring to a committee meeting:</a></li>
+<li class="chapter" data-level="6.1" data-path="scheduling-and-preparing-for-meetings.html"><a href="scheduling-and-preparing-for-meetings.html#what-to-bring-to-a-committee-meeting"><i class="fa fa-check"></i><b>6.1</b> What to bring to a committee meeting:</a></li>
 </ul></li>
 <li class="chapter" data-level="7" data-path="prospectus.html"><a href="prospectus.html"><i class="fa fa-check"></i><b>7</b> <strong>Prospectus</strong></a></li>
 <li class="chapter" data-level="8" data-path="participation.html"><a href="participation.html"><i class="fa fa-check"></i><b>8</b> <strong>Participation</strong></a></li>
@@ -131,8 +134,8 @@
 <h1 class="title">Student Guide to Success</h1>
 <p class="author"><em>Dr. Chris Stallings</em></p>
 </div>
-<div id="welcome-to-the-fish-ecology-lab-at-the-usf-college-of-marine-science" class="section level1 unlisted unnumbered">
-<h1><em>Welcome to the Fish Ecology Lab at <br/> the USF College of Marine Science</em></h1>
+<div id="welcome-to-the-fish-ecology-lab-at-the-usf-college-of-marine-science" class="section level1 unlisted unnumbered hasAnchor">
+<h1><em>Welcome to the Fish Ecology Lab at <br/> the USF College of Marine Science</em><a href="index.html#welcome-to-the-fish-ecology-lab-at-the-usf-college-of-marine-science" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p><img src="Images/FEL.jpg" width="65%" style="display: block; margin: auto;" /></p>
 <p><br/></p>
 <p>Making the transition from being an undergrad to a graduate student can be both rewarding and exciting, but also has its challenges. Although you are considered a graduate “student,” you will be treated like a professional. Thus, you will have to balance being a student and developing your skills (after all, that’s why you are here), while also being treated as a colleague in the profession. This means that you will learn many new techniques and skills, but are expected to take charge of your learning and be the master of your own path. You will begin to contribute novel information to your scientific field. This guide is intended to help you make this transition so that you can excel here at USF and prepare yourself for a successful and rewarding career. I request that you review this handbook at the beginning of every semester since some advice is specific to different stages of your time as a graduate student.</p>
@@ -144,7 +147,7 @@
 <p><strong>Bookdown code:</strong><br />
 <em>Michael Schram, MS</em></p>
 <p><strong>Last Updated:</strong><br />
-<em>2020-11-10</em></p>
+<em>2025-03-07</em></p>
 <hr />
 
 </div>
@@ -158,7 +161,6 @@
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -189,6 +191,10 @@ gitbook.start({
 "text": null
 },
 "download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "section"
 }
