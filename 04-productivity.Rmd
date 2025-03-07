@@ -5,7 +5,6 @@ Publish, publish, publish (publish or perish!). Publications are the currency in
 - MS students: a minimum of two publishable papers from thesis
 - PhD students: a minimum of three publishable papers from dissertation (should be highly interrelated studies that when synthesized should advance our understanding about an important topic)
 
-
 ## Writing a manuscript 
 ***Note:*** *Try starting with “outline” view in word processor.*
 

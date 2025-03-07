@@ -28,3 +28,4 @@ meeting-format
 what-to-bring-to-a-committee-meeting
 prospectus
 participation
+fig:unnamed-chunk-1
